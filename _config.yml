@@ -16,7 +16,7 @@ language:           "en" # default language of the blog. Language codes:
                          # www.w3schools.com/tags/ref_language_codes.asp
 baseurl:            ""   # the subpath of your site, e.g. /blog
 # the base hostname & protocol for your site. Look at robots.txt as well!
-url:                "http://flipdazed.github.io"
+url:                "http://pytranscriber.github.io/flipdazed.io/"
 permalink:          /blog/:categories/:title
 cover:              /assets/math2.jpg
 disqus_shortname:   flipdazed
