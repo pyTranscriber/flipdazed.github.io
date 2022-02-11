@@ -37,3 +37,5 @@ gems:
   - jekyll-sitemap
   - jekyll-redirect-from
   - jekyll-seo-tag
+
+theme: jekyll-theme-slate
